@@ -1,10 +1,27 @@
 {
   "pc": {
     "latest": "5.0.1",
-    "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.1/MobilePostTP_Setup_v5.0.1.exe"
+    "versions": [
+      {
+        "version": "5.0.1",
+        "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.1/MobilePostTP_Setup_v5.0.1.exe",
+        "note": "Bản mới nhất"
+      },
+      {
+        "version": "5.0.0",
+        "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.0/MobilePostTP_Setup_v5.0.0.exe",
+        "type": "Cũ"
+      }
+    ]
   },
   "ime": {
     "latest": "2.7.9",
-    "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.1/MobilePostTP_IME_v2.7.9.apk"
+    "versions": [
+      {
+        "version": "2.7.9",
+        "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.1/MobilePostTP_IME_v2.7.9.apk",
+        "note": "Bản mới nhất"
+      }
+    ]
   }
 }
