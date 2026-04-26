@@ -19,7 +19,14 @@
     ]
   },
   "ime": {
-    "latest": "2.7.9",
+    "latest": "2.8.1",
+    "versions": [
+      {
+        "version": "2.8.1",
+        "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.1/MobilePostTP_IME_v2.8.1.apk",
+        "video": "",
+        "detail": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases"
+      },
     "versions": [
       {
         "version": "2.7.9",
