@@ -9,6 +9,14 @@
         "note": "Full update",
         "video": "",
         "detail": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases"
+      },
+
+      {
+        "version": "5.0.4",
+        "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.4/MobilePostTP_Setup_v5.0.4.exe",
+        "note": "Full update",
+        "video": "",
+        "detail": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases"
       }
     ]
 
@@ -27,4 +35,3 @@
     ]
   }
 }
-
