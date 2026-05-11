@@ -1,9 +1,9 @@
 {
-    "latest": "4.1.0",
+    "latest": "5.1.1",
 
     "versions": [
         {
-            "version": "4.1.0",
+            "version": "5.1.1",
             "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.5/MobilePostTP_Setup_v5.0.5.exe",
 
             "release_api": "https://api.github.com/repos/thanguit6-boop/MobilepostTP-updates/releases/tags/v5.0.5",
