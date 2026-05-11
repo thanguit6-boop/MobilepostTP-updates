@@ -41,7 +41,7 @@
 
     "patches": {
         "5": {
-            "to": "5.1.0",
+            "to": "5.1.1",
             "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.5/patch_major5_to_5.0.5.zip",
             "sha256": "PUT_REAL_SHA256_HERE"
         }
