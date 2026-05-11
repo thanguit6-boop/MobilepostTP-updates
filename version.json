@@ -1,37 +1,49 @@
 {
-  "pc": {
-    "latest": "5.0.5",
+    "latest": "6.0.0",
 
     "versions": [
-      {
-        "version": "5.0.5",
-        "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.5/MobilePostTP_Setup_v5.0.5.exe",
-        "note": "Full update",
-        "video": "",
-        "detail": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases"
-      },
+        {
+            "version": "6.0.0",
+            "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v6.0.0/MobilePostTP_Setup_v6.0.0.exe",
 
-      {
-        "version": "5.0.4",
-        "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.4/MobilePostTP_Setup_v5.0.4.exe",
-        "note": "Full update",
-        "video": "",
-        "detail": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases"
-      }
-    ]
+            "release_api": "https://api.github.com/repos/thanguit6-boop/MobilepostTP-updates/releases/tags/v5.0.5",
 
-  },
+            "note": "Bản mới nhất",
+            "video": "",
+            "detail": "",
+            "type": "Latest"
+        },
 
-  "ime": {
-    "latest": "2.8.1",
+        {
+            "version": "5.0.5",
+            "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.5/MobilePostTP_Setup_v5.0.5.exe",
 
-    "versions": [
-      {
-        "version": "2.8.1",
-        "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/vIME/MobilePostTP_IME_v2.8.1.apk",
-        "video": "",
-        "detail": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases"
-      }
-    ]
-  }
+            "release_api": "https://api.github.com/repos/thanguit6-boop/MobilepostTP-updates/releases/tags/v5.0.5",
+
+            "note": "Quick update test",
+            "video": "",
+            "detail": "",
+            "type": "Stable"
+        },
+
+        {
+            "version": "5.0.4",
+            "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.4/MobilePostTP_Setup_v5.0.4.exe",
+
+            "release_api": "https://api.github.com/repos/thanguit6-boop/MobilepostTP-updates/releases/tags/v5.0.4",
+
+            "note": "Bản ổn định trước",
+            "video": "",
+            "detail": "",
+            "type": "Stable"
+        }
+    ],
+
+    "patches": {
+        "5": {
+            "to": "5.0.5",
+            "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.5/patch_major5_to_5.0.5.zip",
+            "sha256": "PUT_REAL_SHA256_HERE"
+        }
+    }
 }
