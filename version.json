@@ -1,12 +1,12 @@
 {
-    "latest": "1.1.1",
+    "latest": "6.0.0",
 
     "versions": [
         {
-            "version": "1.1.1",
-            "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.5/MobilePostTP_Setup_v5.0.5.exe",
+            "version": "6.0.0",
+            "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v6.0.0/MobilePostTP_Setup_v6.0.0.exe",
 
-            "release_api": "https://api.github.com/repos/thanguit6-boop/MobilepostTP-updates/releases/tags/v5.0.5",
+            "release_api": "https://api.github.com/repos/thanguit6-boop/MobilepostTP-updates/releases/tags/v6.0.0",
 
             "note": "Bản mới nhất",
             "video": "",
@@ -37,13 +37,5 @@
             "detail": "",
             "type": "Stable"
         }
-    ],
-
-    "patches": {
-        "5": {
-            "to": "1.1.1",
-            "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v5.0.5/patch_major5_to_5.0.5.zip",
-            "sha256": "PUT_REAL_SHA256_HERE"
-        }
-    }
+    ]
 }
