@@ -100,7 +100,7 @@
       "6": {
         "to": "6.0.1",
         "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v6.0.1/patch_major6_to_6.0.1.zip",
-        "sha256": "f73661ce3b0a07a93f21606a499e743c4a591cf3ee402aa7d7b56da7c2d02448P"
+        "sha256": "f73661ce3b0a07a93f21606a499e743c4a591cf3ee402aa7d7b56da7c2d02448"
       }
     }
   }
