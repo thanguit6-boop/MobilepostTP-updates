@@ -1,8 +1,8 @@
 {
-    "latest": "8.0.0",
+    "latest": "7.0.0",
     "versions": [
         {
-            "version": "8.0.0",
+            "version": "7.0.0",
             "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v7.0.0/MobilePostTP_Setup_v7.0.0.exe",
             "sha256": "043423e39f208fa9ad3b93e55edcc4d0cac1ec4081923487bf36a187237ff741",
             "release_api": "https://api.github.com/repos/thanguit6-boop/MobilepostTP-updates/releases/tags/v7.0.0",
