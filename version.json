@@ -4,7 +4,7 @@
         {
             "version": "7.0.1",
             "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v7.0.1/MobilePostTP_Setup_v7.0.1.exe",
-            "sha256": "c0530aacddb6235183031b3e76ac90c49776bd62c12ad67fd05db746687346a7",
+            "sha256": "70c3921744a2e84caa5c99fb41ae37c9bb1938fc5f67f800a0e71c8ff3717d8e",
             "release_api": "https://api.github.com/repos/thanguit6-boop/MobilepostTP-updates/releases/tags/v7.0.1",
             "note": "Bản mới nhất",
             "video": "https://www.youtube.com/playlist?list=PL64Qrj9ZsHVKoQ9euspQw78q73YOhR9AA",
@@ -26,7 +26,7 @@
         "7": {
             "to": "7.0.1",
             "url": "https://github.com/thanguit6-boop/MobilepostTP-updates/releases/download/v7.0.1/patch_major7_to_7.0.1.zip",
-            "sha256": "fa4d7b7e06de2e5053a6af446a14e7f1dabd74089f1471f0de85b1ba4ef96e2e"
+            "sha256": "07c65369e102fd8688ba5a28235cb3f564fb2867a04391040f1284addca30a42"
         }
     },
     "ime": {
